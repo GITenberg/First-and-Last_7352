@@ -1,0 +1,35 @@
+_repo: First-and-Last_7352
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: 'On weighing anchor -- The Reveillon -- On cheeses -- The captain
+  of industry -- The inventor -- The views of England -- The lunatic -- The inheritance
+  of humour -- The old gentleman''s opinions -- On historical evidence -- The absence
+  of the past -- St. Patrick -- The lost things -- On the reading of history -- The
+  victory -- Reality -- On the decline of the book -- José Maria de Heredia -- Normandy
+  and the Normans -- The old things -- The Battle of Hastings -- The Roman roads in
+  Picardy -- The reward of letters -- The eye-openers -- The public -- On entries
+  -- Companions of travel -- On the sources of rivers -- On error -- The great sight
+  -- The decline of a state -- On past greatness -- Mr. the duke: the man of Malplaquet
+  -- The game of cards -- "King Lear" -- The excursion -- The tide -- On a great wind
+  -- The letter -- The regret -- The end of the world.'
+title: First and Last
+url: http://www.gutenberg.org/ebooks/7352
